@@ -1,0 +1,505 @@
+Evolution starts...
+
+Generation 100:
+Best fitness is 0.9352005132590551
+Avg fitness is 1.7214382140542055
+Worst fitnes is 3.3815547550995646
+
+Generation 200:
+Best fitness is 0.4003926644111823
+Avg fitness is 0.978154804660585
+Worst fitnes is 1.5301198210162061
+
+Generation 300:
+Best fitness is 0.19553346496194468
+Avg fitness is 0.48656300857283263
+Worst fitnes is 0.9300896014184153
+
+Generation 400:
+Best fitness is 0.02240783876448672
+Avg fitness is 0.23267835966734662
+Worst fitnes is 0.5914141245072413
+
+Generation 500:
+Best fitness is 0.02240783876448672
+Avg fitness is 0.12253612192311608
+Worst fitnes is 0.19647654652230978
+
+Generation 600:
+Best fitness is 0.01496408665750545
+Avg fitness is 0.055451607543906475
+Worst fitnes is 0.13443577413286523
+
+Generation 700:
+Best fitness is 0.0114684627607731
+Avg fitness is 0.029879031767291574
+Worst fitnes is 0.07798733115186388
+
+Generation 800:
+Best fitness is 0.0114684627607731
+Avg fitness is 0.018477233086402426
+Worst fitnes is 0.043938182514376596
+
+Generation 900:
+Best fitness is 0.007979753427387746
+Avg fitness is 0.015438243148217649
+Worst fitnes is 0.0237198074400684
+
+Generation 1000:
+Best fitness is 0.007979753427387746
+Avg fitness is 0.013577550562488789
+Worst fitnes is 0.020838955462352347
+
+Generation 1100:
+Best fitness is 0.007979753427387746
+Avg fitness is 0.013077914400234567
+Worst fitnes is 0.022993976742409643
+
+Generation 1200:
+Best fitness is 0.007979753427387746
+Avg fitness is 0.01189957715011128
+Worst fitnes is 0.020330036761106167
+
+Generation 1300:
+Best fitness is 0.007979753427387746
+Avg fitness is 0.011633496942537356
+Worst fitnes is 0.017802030916777546
+
+Generation 1400:
+Best fitness is 0.007979753427387746
+Avg fitness is 0.010600733780783453
+Worst fitnes is 0.014909683269862554
+
+Generation 1500:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.010245766671345899
+Worst fitnes is 0.030970380442640756
+
+Generation 1600:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.009531985069409363
+Worst fitnes is 0.015970415505821168
+
+Generation 1700:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.00918004880316968
+Worst fitnes is 0.0114684627607731
+
+Generation 1800:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.00888982405965148
+Worst fitnes is 0.0114684627607731
+
+Generation 1900:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.008479391749475781
+Worst fitnes is 0.02786264577379883
+
+Generation 2000:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.008672853166542083
+Worst fitnes is 0.0366722586212106
+
+Generation 2100:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.007979753427387631
+Worst fitnes is 0.007979753427387746
+
+Generation 2200:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.00827959184590454
+Worst fitnes is 0.027724918686814457
+
+Generation 2300:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.0082642153180385
+Worst fitnes is 0.030723408169078738
+
+Generation 2400:
+Best fitness is 0.007979753427387612
+Avg fitness is 0.007979753427387626
+Worst fitnes is 0.007979753427387612
+
+Generation 2500:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.007341373153196631
+Worst fitnes is 0.007979753427387612
+
+Generation 2600:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.005905017536266892
+Worst fitnes is 0.007979753427387612
+
+Generation 2700:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.006147889853943191
+Worst fitnes is 0.058942684024397805
+
+Generation 2800:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.003946516039459324
+Worst fitnes is 0.007979753427387612
+
+Generation 2900:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.003110435215171475
+Worst fitnes is 0.02969779674367398
+
+Generation 3000:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.001878931020945915
+Worst fitnes is 0.016562301528586326
+
+Generation 3100:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.0003277682679840479
+Worst fitnes is 0.007979753427387612
+
+Generation 3200:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.0012611191983525932
+Worst fitnes is 0.0982378067073297
+
+Generation 3300:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 5.0327658668086776e-05
+Worst fitnes is 0.0034368151813090153
+
+Generation 3400:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 3.307916973307337e-05
+Worst fitnes is 0.003307916973285013
+
+Generation 3500:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 2.2534496414832513e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 3600:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 2.2534496414832513e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 3700:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 2.2534496414832513e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 3800:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.0006549187113824187
+Worst fitnes is 0.06549187113821979
+
+Generation 3900:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 2.2534496414832513e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 4000:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.0009823780670735185
+Worst fitnes is 0.0982378067073297
+
+Generation 4100:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.00039295122682954077
+Worst fitnes is 0.039295122682931845
+
+Generation 4200:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.0009823780670735185
+Worst fitnes is 0.0982378067073297
+
+Generation 4300:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 2.2534496414832513e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 4400:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.0006549187113824167
+Worst fitnes is 0.06549187113821966
+
+Generation 4500:
+Best fitness is 2.2534496414832553e-16
+Avg fitness is 0.0009823780670735192
+Worst fitnes is 0.0982378067073297
+
+Generation 4600:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.250765009960142e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 4700:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735174
+Worst fitnes is 0.0982378067073297
+
+Generation 4800:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.2346572208214836e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 4900:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735183
+Worst fitnes is 0.0982378067073297
+
+Generation 5000:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.2158648001597156e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 5100:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1742530115515155e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 5200:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.002783553398771202
+Worst fitnes is 0.2783553398770989
+
+Generation 5300:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735053
+Worst fitnes is 0.0982378067073297
+
+Generation 5400:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.123245012612431e-16
+Worst fitnes is 2.2534496414832553e-16
+
+Generation 5500:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735035
+Worst fitnes is 0.0982378067073297
+
+Generation 5600:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0035827472831947878
+Worst fitnes is 0.35827472831945734
+
+Generation 5700:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.002830325910898948
+Worst fitnes is 0.2830325910898736
+
+Generation 5800:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 5900:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 6000:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 6100:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 6200:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735044
+Worst fitnes is 0.0982378067073297
+
+Generation 6300:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 6400:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.000982378067073505
+Worst fitnes is 0.0982378067073297
+
+Generation 6500:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0049118903353667
+Worst fitnes is 0.4911890335366483
+
+Generation 6600:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735055
+Worst fitnes is 0.0982378067073297
+
+Generation 6700:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 6800:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 6900:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 7000:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 7100:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.000982378067073506
+Worst fitnes is 0.0982378067073297
+
+Generation 7200:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.001964756134146808
+Worst fitnes is 0.0982378067073297
+
+Generation 7300:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 7400:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735066
+Worst fitnes is 0.0982378067073297
+
+Generation 7500:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 7600:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735046
+Worst fitnes is 0.0982378067073297
+
+Generation 7700:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 7800:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.004911890335366703
+Worst fitnes is 0.4911890335366483
+
+Generation 7900:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.005855170283400946
+Worst fitnes is 0.5855170283400735
+
+Generation 8000:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735062
+Worst fitnes is 0.0982378067073297
+
+Generation 8100:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 8200:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.000982378067073504
+Worst fitnes is 0.0982378067073297
+
+Generation 8300:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.003929512268293401
+Worst fitnes is 0.39295122682931855
+
+Generation 8400:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.002339307373580353
+Worst fitnes is 0.13569293065068433
+
+Generation 8500:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.007023741539673627
+Worst fitnes is 0.5058985405526816
+
+Generation 8600:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0009823780670735033
+Worst fitnes is 0.0982378067073297
+
+Generation 8700:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.007859024536586587
+Worst fitnes is 0.4911890335366484
+
+Generation 8800:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 8900:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.004911890335366694
+Worst fitnes is 0.4911890335366483
+
+Generation 9000:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 9100:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 9200:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 9300:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 9400:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.004764684569582867
+Worst fitnes is 0.47646845695826545
+
+Generation 9500:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 0.0019647561341468067
+Worst fitnes is 0.1964756134146594
+
+Generation 9600:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 9700:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 9800:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 9900:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Generation 10000:
+Best fitness is 2.1192180653277683e-16
+Avg fitness is 2.1192180653277665e-16
+Worst fitnes is 2.1192180653277683e-16
+
+Evolution ends...
+Best tree representation in the final generation is:
+( y + ( y - ( ( ( x * ( y - ( ( y + y ) + ( y + x ) ) ) ) - 5 ) / 5 ) ) ) 
